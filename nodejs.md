@@ -19,10 +19,12 @@ The main package manager for NodeJS is [NPM](https://www.npmjs.com/)
 * Very easily customizable
 * REPL
   * http://derickbailey.com/2014/07/02/build-your-own-app-specific-repl-for-your-nodejs-app/
-	* http://docs.nodejitsu.com/articles/REPL/how-to-create-a-custom-repl
-	* https://nodejs.org/api/repl.html
+  * http://docs.nodejitsu.com/articles/REPL/how-to-create-a-custom-repl
+  * https://nodejs.org/api/repl.html
 * Easy to manipulate Data 
-  * Help from other packages
+* NPM
+  * There's a package for almost anything
+
 
 ### What I don't like:
 * Customizing REPL is basically adding functionality any good REPL should have
