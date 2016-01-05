@@ -24,6 +24,8 @@ The main package manager for NodeJS is [NPM](https://www.npmjs.com/)
 * Easy to manipulate Data 
 * NPM
   * There's a package for almost anything
+* Promises
+* ES6 is cleaning a lot up, and ES7 will finish the cleanup
 
 
 ### What I don't like:
